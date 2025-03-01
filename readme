@@ -1,1 +1,11 @@
-Background remover tool
+Ignore the rest of the files and run dot_sketch.py, I tried using pretrained models to achieve AI photorealistic images using GPAFAN but it wasn't possible due to some issue with installation
+of basicSR. Im still working on that.
+
+I also have an edge_detection script but it wasn't linked.
+
+rembg was used for the background removal.
+
+The Application is still yet to be optimized and further changes would be required.
+
+UI deisgn is simple and clean.
+
